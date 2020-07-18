@@ -1,0 +1,23 @@
+.message {
+    width: fit-content;
+    margin: 10px;
+}
+
+.message__user {
+    margin-left: auto;
+}
+
+.card__guess {
+    background-color: rgb(233, 231, 231) !important;
+}
+
+.card__user {
+    background-color: rgb(60, 60, 228) !important;
+    color: whitesmoke !important;
+}
+
+.label__name {
+    text-align: left;
+    font-size: 12px !important;
+    padding: 5px !important;
+}
